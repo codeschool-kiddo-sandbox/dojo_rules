@@ -1,1 +1,1 @@
-Im a readme
+All members should read the rules
